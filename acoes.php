@@ -93,7 +93,7 @@
 
 /**
  * Este código PHP tem duas funcionalidades principais: atualizar e 
- * deletar usuários no banco de dados. Vamos analisar cada parte separadamente:
+ * deletar usuários no banco de dados.
  */
     
     //a função verifica se o formulário de atualização foi enviado.
