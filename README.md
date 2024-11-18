@@ -1,4 +1,4 @@
-Estudos relacionados a desenvolvimento de CRUD.
+Estudos relacionados ao desenvolvimento CRUD.
 
 Cada linha de codigo comentada.
 
